@@ -1,3 +1,5 @@
 AUTHOR BIO - Chay Newman lives and works in Melbourne. She is currently studying creative writing at RMIT. In 2022, she published work in RMIT’s student magazine ‘Catalyst’, AFIRC's 'Best Australian Films You've Never Seen', and a self-published anthology book titled ‘Hurt and Comfort’. Inspired by the likes of Caitlyn Siehl and Emily Dickenson, Chay focuses on epic poetry and long-form prosaic stories.
+
 The type of writing I do revolves around a combination of poetry and short fiction. It’s almost long-form prose that crafts a narrative through thousands of words. It probably awfully pretentious and then frustratingly complex, but I want every line in my shorties to feel like poetry. 
+
 The techniques I've utilised most are simply word doc and google docs, however I have utilized a video editing software, 'Final Cut Pro' to create poetry in the form of video art. I've done this to create a more immersive experience to the 'experiencer' rather than the 'reader' of my work. Video art poetry can incorporate sound and visuals rather than just words, compared to tradition print poetry. 
