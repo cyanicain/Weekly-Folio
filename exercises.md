@@ -3,4 +3,6 @@ These techniques constrain my writing as it makes it too abstract. I understand 
 
 The type of writing I do revolves around a combination of poetry and short fiction. It’s almost long-form prose that crafts a narrative through thousands of words. It probably awfully pretentious and then frustratingly complex, but I want every line in my shorties to feel like poetry. 
 
-The techniques I've utilised most are simply word doc and google docs, however I have utilized a video editing software, 'Final Cut Pro' to create poetry in the form of video art. I've done this to create a more immersive experience to the 'experiencer' rather than the 'reader' of my work. Video art poetry can incorporate sound and visuals rather than just words, compared to tradition print poetry. 
+The techniques I've utilised most are simply word doc and google docs, however I have utilized a video editing software, 'Final Cut Pro' to create poetry in the form of video art. I've done this to create a more immersive experience to the 'experiencer' rather than the 'reader' of my work. Video art poetry can incorporate sound and visuals rather than just words, compared to tradition print poetry.
+
+DEFINING ELECTRONIC LIITERATURE - 
