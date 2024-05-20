@@ -1,4 +1,4 @@
-WEEK 1
+**WEEK 1**
 
 The type of writing I do revolves around a combination of poetry and short fiction. It’s almost long-form prose that crafts a narrative through thousands of words. It probably awfully pretentious and then frustratingly complex, but I want every line in my shorties to feel like poetry. The literally aspects I encompass when I write include allegories and metaphors, mostly. I like to allude to other things that mean other things within my writing. I like it to feel as if I am talking about anything else than the thing I am actually talking about. I often confuse myself and wonder what the fuck it is that I am actually trying to say. 
 
@@ -8,21 +8,21 @@ The type of writing I do revolves around a combination of poetry and short ficti
 
 The digital techniques I've utilised most are simply word doc and google docs, however I have utilized a video editing software, 'Final Cut Pro' to create poetry in the form of video art. I've done this to create a more immersive experience to the 'experiencer' rather than the 'reader' of my work. Video art poetry can incorporate sound and visuals rather than just words, compared to tradition print poetry.
 
-WEEK 2
+**WEEK 2**
 
-WEEK 3
+**WEEK 3**
 
-WEEK 4
+**WEEK 4**
 
 Thinking about my final digital piece, I've begun experimenting with Twine. I will admit, I am very technologically challenged, and so anything remotely related to coding scares the shit out of me. Twine, however, I have found very accessible and user-friendly. I've begun adapting a previously written print poem into a digital format. It was a linear structure and isn't 'choice-based', and so I thought adapting it digitally would keep it fairly the same. I didn't expect for my original piece to change so drastically, but it has. The original dark and horror-esque poem is written from the second-person perspective, and is about you, coming to the terms that you are suddenly immortal and wanting nothing more than to 'test' your newfound immortality by attempting to kill yourself when you know you can't, all the while your lover (who doesn't know any of this) watches you. First off, the narrative is no longer linear. I've added passages where the 'user' reading the poem can go back an explore different choices. I've also added narrative choices such as forth-wall breaks where you (the user) can break away from the narrative and ask questions like "WHAT THE FUCK IS HAPPENING?". Experimenting, with a digital format has also allowed me to colour the background and change the colour of the text in certain passages, such as a bright, stark red as a sort of 'danger' sign within the poem. 
 
 All of these digital aspects that I have experimented with in Twine has transformed my original print poem, which I had thought would, for the most part, stay the same. The non-linear format and repeat of passages has given my poem a deeper sense of horror and delve into insanity; the digital formatting of the page evoking a stark constract to my poem's original conception and form; and the breaking of the fourth wall speaks directly to the user and alters the reader-writer-text partnership, furthered by the user's interactive with the fiction.
 
-WEEK 5
+**WEEK 5**
 
-WEEK 6
+**WEEK 6**
 
-WEEK 7
+**WEEK 7**
 
 ‘How to Call in Sick’ is an interactive story-choice game designed to simulate you, the employee, messaging your manager to let them know that you will not be able to come in today, due to being sick. In this case, you have suffered a server anxiety attack and suicidal ideation, and so, going to your 13-dollar-an-hour job at McDonald’s, doesn’t seem like the mentally healthy thing to do today.
 
@@ -37,17 +37,17 @@ The third option is lying. You don’t think your manager will see ‘mental hea
 All in all, there is no ‘good ending’ no matter how many times you replay the day and start the conversation different and choose different messages to send, despite the multiple endings. This game is designed to highlight the flaws in modern workplaces and how mental health is never seen as a good enough excuse to take time off or call in sick. Work has become the most important thing in our lives because our livelihoods are entirely dependent on us earning an income. With the way our world is structured, we wouldn’t be able to live with one. It’s terrifying how far people of the system have to go to, either, a) hurt themselves further to be taken seriously by proving they are ‘sick enough’, or b) let their health suffer as a result regardless if the illness is mental or physical. Workers are forced to make this unhealthy and toxic ultimatum, because the only other choice is to lose their job, sacrificing income, housing, food, education etc. If I were to link this small choice game back to the ideology, it would be that this capitalistic-like life-revolves-around-work mentality is deeply flawed. I want to aim to highlight its absurdity, its inequality, and inhumane-nature, urging the those who have to work in these conditions to rethink how they view their own work-balance and that is affecting their own wellbeing; as well as, the ‘problem’ -- people in power who lack empathy and reasoning, and are continuing to fester this toxic ideology that work is everything at the expense of everything else.
 
 
-WEEK 8 
+**WEEK 8**
 
 Something that I have decided to expand upon in my piece is the deteriorating mental health epidemic that has become 'unimportant' in the eyes of this toxic work-over-everything mentality. Through my piece, I want to highlight the insanity that is this mentality and how little work should matter in the grand scheme of things as it is absurd how people have to resort to destroying themselves in order to feed, cloth, and house themselves. No, I do not think that nobody should work and that society would be better off without the concept, as that idea is immature, unrealistic and not something I want to convey; but am I expressing that work should not be *everything.* To do this, I've included a fourth pathway to my original three. The fourth storyline option is simple. The choice that can be made is: kill yourself. In that option, your manager with ring you continuously, while berating you via text messages for ignoring them and not showing up to work, without you ever responding, unlike the other pathways. It ends with your manager telling you 'you better be dead to have missed work like this', and then having the option to start the day again. While dark and confronting, this pathway explores the worst-case scenario of toxic work-life ideology and puts into perspective how insane this capitalistic mindset truly is. It acts as a warning to those who push this unachievable, mental-health-compromising idea that work = everything above even yourself. Forcing users to experience this awful scenario over what could happen should someone act on suicidal ideality because of the system's lack of ability to care about anything other than work, demonstrates the main contention of the peace: people in power who lack empathy and reasoning, and are continuing to fester this toxic ideology that work is everything at the expense of everything else, especially, the very people of the system who are dedicating their wellbeing to work for them. 
 
-WEEK 9
+**WEEK 9**
 
-WEEK 10
+**WEEK 10**
 
 The feedback I have received from my proposal urged me to further experiment with Twine to really evoke the feeling of a phone text conversation within my audiences as they experience my digital piece. I first began by incorporating a bubble-like structure to the dialogue within my story in order to appear more like 'text messages'. I did this by creating a box border around the entire dialogue to seem like a text bubble sent from a phone. I further added to this text-phone conversation immersion by having one person's bubbles on the left side of the screen, while the other's appears on the right, mirroring a text conversation in apps such as iMessage and WhatsApp. In my piece, "your" (the protagonist's) text messages are on the right as to create a feeling that they are coming from you (the user) directly, while "manger" (the antagonist) messages are on the left. Overall, this was done to create the feeling that the user is truly having a text conversation as they play the game. I want to place my audience directly into my protagonist's world, and simulate what this interaction would be like as they text their manager to call in sick. It furthers the realism and suspension of disbelief if my piece not only looks like a text conversation but *feels* like it too, all in all, contributing to the contention that this could and is happening to people of today's workforce.
 
-WEEK 11
+**WEEK 11**
 
 Adding to last week's experimentation of making my piece emulate a text message conversation, I have added a pone-ringing sound effect. 
 
