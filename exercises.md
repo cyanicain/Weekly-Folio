@@ -49,5 +49,7 @@ The feedback I have received from my proposal urged me to further experiment wit
 
 **WEEK 11**
 
-Adding to last week's experimentation of making my piece emulate a text message conversation, I have added a pone-ringing sound effect. 
+Adding to last week's experimentation of making my piece emulate a text message conversation, I have added a phone-ringing sound effect to my final pathway. In this pathway, the manager calls you, while you do not answer, and so the phone just rings out throughout the whole pathway. Learning to do this was honestly more difficult than I would like to admit. I started by searching out 'how to add sound effects into twine story' into Google, and after scouring several different forums, I realized I needed to upload my sound file (which I had downloaded from the internet) into a website that could host it, copying the URL into Twine. I tried both OneNote and Dropbox, but it wasn't until I uploaded it to Wix of all things that it actually worked. I added the sound effect to the entire fourth pathway, not just the two first 'incoming call' phone notifications, as I wanted to make it out that the manager, while texting you, was also calling you endlessly at the same time. The only time the manager stops calling you is to message you 'you better be dead to have missed work like this', as by that time, I really want for the user's attention to be entirely focused on that last line.
+
+
 
