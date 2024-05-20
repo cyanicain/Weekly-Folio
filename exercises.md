@@ -18,8 +18,6 @@ Thinking about my final digital piece, I've begun experimenting with Twine. I wi
 
 <img width="404" alt="Screenshot 2024-05-20 at 2 59 21 PM" src="https://github.com/cyanicain/Weekly-Folio/assets/163791115/9a328676-58b9-4b23-8dc3-faa2b7c52e11"> <img width="404" alt="Screenshot 2024-05-20 at 2 59 08 PM" src="https://github.com/cyanicain/Weekly-Folio/assets/163791115/aab15ebd-8f32-401c-9420-88f1f54006d0">
 
-
-
 All of these digital aspects that I have experimented with in Twine has transformed my original print poem, which I had thought would, for the most part, stay the same. The non-linear format and repeat of passages has given my poem a deeper sense of horror and delve into insanity; the digital formatting of the page evoking a stark constract to my poem's original conception and form; and the breaking of the fourth wall speaks directly to the user and alters the reader-writer-text partnership, furthered by the user's interactive with the fiction.
 
 **WEEK 5**
