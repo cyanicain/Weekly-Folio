@@ -39,12 +39,15 @@ All in all, there is no ‘good ending’ no matter how many times you replay th
 
 WEEK 8 
 
-The feedback I have received from my proposal 
+Something that I have decided to expand upon in my piece is the deteriorating mental health epidemic that has become 'unimportant' in the eyes of this toxic work-over-everything mentality. Through my piece, I want to highlight the insanity that is this mentality and how little work should matter in the grand scheme of things as it is absurd how people have to resort to destroying themselves in order to feed, cloth, and house themselves. No, I do not think that nobody should work and that society would be better off without the concept, as that idea is immature, unrealistic and not something I want to convey; but am I expressing that work should not be *everything.* To do this, I've included a fourth pathway to my original three. The fourth storyline option is simple. The choice that can be made is: kill yourself. In that option, your manager with ring you continuously, while berating you via text messages for ignoring them and not showing up to work, without you ever responding, unlike the other pathways. It ends with your manager telling you 'you better be dead to have missed work like this', and then having the option to start the day again. While dark and confronting, this pathway explores the worst-case scenario of toxic work-life ideology and puts into perspective how insane this capitalistic mindset truly is.
 
 WEEK 9
 
 WEEK 10
 
+The feedback I have received from my proposal urged me to further experiment with Twine to really evoke the feeling of a phone text conversation within my audiences as they experience my digital piece. I first began by incorporating a bubble-like structure to the dialogue within my story in order to appear more like 'text messages'. I did this by creating a box border around the entire dialogue to seem like a text bubble sent from a phone. I further added to this text-phone conversation immersion by having one person's bubbles on the left side of the screen, while the other's appears on the right, mirroring a text conversation in apps such as iMessage and WhatsApp. In my piece, "your" (the protagonist's) text messages are on the right as to create a feeling that they are coming from you (the user) directly, while "manger" (the antagonist) messages are on the left. Overall, this was done to create the feeling that the user is truly having a text conversation as they play the game. I want to place my audience directly into my protagonist's world, and simulate what this interaction would be like as they text their manager to call in sick. It furthers the realism and suspension of disbelief if my piece not only looks like a text conversation but *feels* like it too, all in all, contributing to the contention that this could and is happening to people of today's workforce.
+
 WEEK 11
 
+Adding to last week's experimentation of making my piece emulate a text message conversation, I have added a pone-ringing sound effect. 
 
