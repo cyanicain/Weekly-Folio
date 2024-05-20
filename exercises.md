@@ -2,17 +2,21 @@ WEEK 1
 
 The type of writing I do revolves around a combination of poetry and short fiction. It’s almost long-form prose that crafts a narrative through thousands of words. It probably awfully pretentious and then frustratingly complex, but I want every line in my shorties to feel like poetry. The literally aspects I encompass when I write include allegories and metaphors, mostly. I like to allude to other things that mean other things within my writing. I like it to feel as if I am talking about anything else than the thing I am actually talking about. I often confuse myself and wonder what the fuck it is that I am actually trying to say. 
 
-These techniques constrain my writing as it makes it too abstract. I understand that to resonate and alter and inspire the readers who view my work, it needs to be understood; yet how am I supposed to do that when I don’t even know what it is I’m writing about? I want the contemporary aspect of digital writing to force be away from my complicated intricates of metaphorical pieces, and create something that is complex, yet in a different way – whether that be form, production, layout, interactivity. Professional, I would describe my author's biography as such: Chay Newman lives and works in Melbourne. She is currently studying creative writing at RMIT. In 2022, she published work in RMIT’s student magazine ‘Catalyst’, AFIRC's 'Best Australian Films You've Never Seen', and a self-published anthology book titled ‘Hurt and Comfort’. Inspired by the likes of Caitlyn Siehl and Emily Dickenson, Chay focuses on epic poetry and long-form prosaic stories.
+These analogue techniques constrain my writing as it makes it too abstract. I understand that to resonate and alter and inspire the readers who view my work, it needs to be understood; yet how am I supposed to do that when I don’t even know what it is I’m writing about? I want the contemporary aspect of digital writing to force be away from my complicated intricates of metaphorical pieces, and create something that is complex, yet in a different way – whether that be form, production, layout, interactivity. Professional, I would describe my author's biography as such: Chay Newman lives and works in Melbourne. She is currently studying creative writing at RMIT. In 2022, she published work in RMIT’s student magazine ‘Catalyst’, AFIRC's 'Best Australian Films You've Never Seen', and a self-published anthology book titled ‘Hurt and Comfort’. Inspired by the likes of Caitlyn Siehl and Emily Dickenson, Chay focuses on epic poetry and long-form prosaic stories.
 
 The type of writing I do revolves around a combination of poetry and short fiction. It’s almost long-form prose that crafts a narrative through thousands of words. It probably awfully pretentious and then frustratingly complex, but I want every line in my shorties to feel like poetry. 
 
-The techniques I've utilised most are simply word doc and google docs, however I have utilized a video editing software, 'Final Cut Pro' to create poetry in the form of video art. I've done this to create a more immersive experience to the 'experiencer' rather than the 'reader' of my work. Video art poetry can incorporate sound and visuals rather than just words, compared to tradition print poetry.
+The digital techniques I've utilised most are simply word doc and google docs, however I have utilized a video editing software, 'Final Cut Pro' to create poetry in the form of video art. I've done this to create a more immersive experience to the 'experiencer' rather than the 'reader' of my work. Video art poetry can incorporate sound and visuals rather than just words, compared to tradition print poetry.
 
 WEEK 2
 
 WEEK 3
 
 WEEK 4
+
+Thinking about my final digital piece, I've begun experimenting with Twine. I will admit, I am very technologically challenged, and so anything remotely related to coding scares the shit out of me. Twine, however, I have found very accessible and user-friendly. I've begun adapting a previously written print poem into a digital format. It was a linear structure and isn't 'choice-based', and so I thought adapting it digitally would keep it fairly the same. I didn't expect for my original piece to change so drastically, but it has. The original dark and horror-esque poem is written from the second-person perspective, and is about you, coming to the terms that you are suddenly immortal and wanting nothing more than to 'test' your newfound immortality by attempting to kill yourself when you know you can't, all the while your lover (who doesn't know any of this) watches you. First off, the narrative is no longer linear. I've added passages where the 'user' reading the poem can go back an explore different choices. I've also added narrative choices such as forth-wall breaks where you (the user) can break away from the narrative and ask questions like "WHAT THE FUCK IS HAPPENING?". Experimenting, with a digital format has also allowed me to colour the background and change the colour of the text in certain passages, such as a bright, stark red as a sort of 'danger' sign within the poem. 
+
+All of these digital aspects that I have experimented with in Twine has transformed my original print poem, which I had thought would, for the most part, stay the same. The non-linear format and repeat of passages has given my poem a deeper sense of horror and delve into insanity; the digital formatting of the page evoking a stark constract to my poem's original conception and form; and the breaking of the fourth wall speaks directly to the user and alters the reader-writer-text partnership, furthered by the user's interactive with the fiction.
 
 WEEK 5
 
@@ -34,6 +38,8 @@ All in all, there is no ‘good ending’ no matter how many times you replay th
 
 
 WEEK 8 
+
+The feedback I have received from my proposal 
 
 WEEK 9
 
