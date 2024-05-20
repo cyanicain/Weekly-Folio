@@ -53,5 +53,6 @@ Adding to last week's experimentation of making my piece emulate a text message 
 
 Similarly, with adding an audio file, I have also added images as well. The image (used multiple times in one of the pathways) is of a hospital waiting room hallway that I found by searching 'hospital waiting room Snapchat' of all things. Adding the word 'Snapchat' allowed me to find a first-person, low-quality image someone had taken of an actual hospital waiting room, rather than a professional landscape photograph of a hospital waiting room. As the image is supposed to simulate an actual person taking a photo while they wait in the hospital emergency room, this worked perfectly. I further made this image look like a sent text message just as I did with the dialogue, encasing it in a boarder while centering it to the right of the screen to look as if sent by 'you'.
 
+**WEEK 12**
 
 
