@@ -52,6 +52,9 @@ The third option is lying. You don’t think your manager will see ‘mental hea
 
 All in all, there is no ‘good ending’ no matter how many times you replay the day and start the conversation different and choose different messages to send, despite the multiple endings. This game is designed to highlight the flaws in modern workplaces and how mental health is never seen as a good enough excuse to take time off or call in sick. Work has become the most important thing in our lives because our livelihoods are entirely dependent on us earning an income. With the way our world is structured, we wouldn’t be able to live with one. It’s terrifying how far people of the system have to go to, either, a) hurt themselves further to be taken seriously by proving they are ‘sick enough’, or b) let their health suffer as a result regardless if the illness is mental or physical. Workers are forced to make this unhealthy and toxic ultimatum, because the only other choice is to lose their job, sacrificing income, housing, food, education etc. If I were to link this small choice game back to the ideology, it would be that this capitalistic-like life-revolves-around-work mentality is deeply flawed. I want to aim to highlight its absurdity, its inequality, and inhumane-nature, urging the those who have to work in these conditions to rethink how they view their own work-balance and that is affecting their own wellbeing; as well as, the ‘problem’ -- people in power who lack empathy and reasoning, and are continuing to fester this toxic ideology that work is everything at the expense of everything else.
 
+<img width="404" alt="Screenshot 2024-05-28 at 7 48 33 PM" src="https://github.com/cyanicain/Weekly-Folio/assets/163791115/b50542d4-ffae-4bdc-84fe-970a99fb22b5">
+
+
 
 **WEEK 8**
 
@@ -69,6 +72,9 @@ I want to emulate this idea in a similar way. Despite having three different mai
 **WEEK 10**
 
 The feedback I have received from my proposal urged me to further experiment with Twine to really evoke the feeling of a phone text conversation within my audiences as they experience my digital piece. I first began by incorporating a bubble-like structure to the dialogue within my story in order to appear more like 'text messages'. I did this by creating a box border around the entire dialogue to seem like a text bubble sent from a phone. I further added to this text-phone conversation immersion by having one person's bubbles on the left side of the screen, while the other's appears on the right, mirroring a text conversation in apps such as iMessage and WhatsApp. In my piece, "your" (the protagonist's) text messages are on the right as to create a feeling that they are coming from you (the user) directly, while "manger" (the antagonist) messages are on the left. Overall, this was done to create the feeling that the user is truly having a text conversation as they play the game. I want to place my audience directly into my protagonist's world, and simulate what this interaction would be like as they text their manager to call in sick. It furthers the realism and suspension of disbelief if my piece not only looks like a text conversation but *feels* like it too, all in all, contributing to the contention that this could and is happening to people of today's workforce.
+
+<img width="404" alt="Screenshot 2024-05-28 at 7 47 25 PM" src="https://github.com/cyanicain/Weekly-Folio/assets/163791115/8e87f8ad-9aa6-4261-a7ef-b4cfb65a8217">
+
 
 **WEEK 11**
 
