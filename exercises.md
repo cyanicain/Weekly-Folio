@@ -10,6 +10,8 @@ The digital techniques I've utilised most are simply word doc and google docs, h
 
 **WEEK 2**
 
+No class this week.
+
 **WEEK 3**
 
 **WEEK 4**
