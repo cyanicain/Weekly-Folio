@@ -24,7 +24,15 @@ All of these digital aspects that I have experimented with in Twine has transfor
 
 **WEEK 5**
 
+Outside of Twine, I have also been expirementing with 'Final Cut Pro', a video editing software that I am very familiar with. I began using FCP in 2016 and contiuned going so up until 2021. Throughout highschool, I loved creating little movies and videos, then experimenting with what the internet valls 'edits'. Edits are fan-made videos/clips of an original media (whether that be a TV show, movie, anime, celebrity etc) that are quite populare in fandom culture and spaces on YouTube, Instagram, TikTok etc. I, for once, began creating edits to Star Wars, and did so for years (with various other medias) which inspired my love of video craft and editing. Thinking about digital writing and poetry has urged me to wonder if I could create a video piece using FCP, and so, I have expiremented with making a digital text message exchange. Differing from my original print poem reinvented cia a digital form, this work is conceptualised to be entirely digital. I want to make a video of a text message conversation playing out of a person calling in sick to work, with each text bubble appearing one after the other, mimicing real life. To do this, I started with a white solid-colour background. I downloaded a blank iMessage text bubble image, when added that it, while creating my own text within it, laying the text over the top of the image. I then animated it to 'pop up' the way it would on a phone, repeating the process for subsequent text messages with a slight 'typing' delay. Finally, I added both an iPhone keyboard typing and 'ding' sound effect with each new message. 
+
+Overall, this created a short video of an edited recreation of a text message conversation. 
+
 **WEEK 6**
+
+Working with FCP, however, has its limitations. For once, being a video, the narrative is completely linear. It is in me (the creator) to decide exactly where I want the reader/veiwer to end up, leaving no room for user agency or interaction besides the decision to click 'play' on the video. At the end of the day, my digital work would just be one video of a conversation playing out, and while that is still digital writing, it doesnt encompass the reader-writer-text relationship that I want to convey, nor leave any room for non-linerarity and choice for my users to experience, a huge part of what makes digital writing digital writing. 
+
+So, while scary and intimidating, I have returned to Twine to create a non-linear narrative to my story via three pathways that the user can playout while interacting with my piece. This encompasses the 'game-like' element while reflecting the user-based interative method of changing the dynamic between a text, the author and the experiencer. It makes it more personal than simply watching a video play out if *you* yourself are having a direct impact on the story you are reading. 
 
 **WEEK 7**
 
