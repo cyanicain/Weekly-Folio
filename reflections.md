@@ -11,6 +11,7 @@ The digital techniques I've utilised most are simply Word doc and google docs, h
 No class this week.
 
 **WEEK 3**
+On completing this course, I want to know not just how digital writing differs from traditional print writing, but why it would be utilized instead of print. Or rather, how should a writer/artist/poet know when their work should be print or digital. 
 
 **WEEK 4**
 
